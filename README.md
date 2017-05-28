@@ -1,3 +1,3 @@
 # hello-world
 
-Learning about git-hub because i want to become a master of so=oftware engineering
+Learning about git-hub because i want to become a master of software engineering
